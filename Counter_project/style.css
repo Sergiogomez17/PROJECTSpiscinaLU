@@ -1,0 +1,26 @@
+.container{
+    display: block;
+    height: 50vh;
+    color: blueviolet   ;
+    margin-top: 150px;
+    text-align: center;
+}
+
+span{
+    font-size: 3em;
+}
+button{
+    border-radius: 10px;
+    border:none;
+    cursor:pointer;
+    padding: 10px;
+    margin:10px;
+}
+input{
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#nombre{
+    margin-top: 30px;
+}
